@@ -1,0 +1,1 @@
+python .\src\track.py mot --arch resdcn_34 --load_model models/model_last.pth --image_dir "debug_images" --img_size "1280x736"

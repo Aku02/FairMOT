@@ -1,0 +1,12 @@
+{
+    "root": "dataset/train/images",
+    "train": {
+        "nfl": "src/data/nfl.train"
+    },
+    "test": {
+        "nfl": "src/data/nfl.val"
+    },
+    "test_emb": {
+        "nfl": "src/data/nfl.val"
+    }
+}

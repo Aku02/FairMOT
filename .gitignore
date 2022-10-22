@@ -1,0 +1,10 @@
+.idea
+dataset
+exp
+*.pyc
+DCNv2
+*.pth
+*.zip
+debug_images
+inference/*
+*.jpg
