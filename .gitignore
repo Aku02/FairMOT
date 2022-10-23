@@ -8,3 +8,4 @@ DCNv2
 debug_images
 inference/*
 *.jpg
+NFL_pipeline/weights/*
