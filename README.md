@@ -1,4 +1,7 @@
 # FairMOT
+## Video
+[![Watch the video](https://user-images.githubusercontent.com/64954672/197562901-74fda57b-d74a-4639-ac70-4a725f6fa756.png)](https://drive.google.com/file/d/1E_9OlXpj3uSDsYwM2JM9uaNGrIPGId4k/view?usp=sharing)
+
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/a-simple-baseline-for-multi-object-tracking/multi-object-tracking-on-2dmot15-1)](https://paperswithcode.com/sota/multi-object-tracking-on-2dmot15-1?p=a-simple-baseline-for-multi-object-tracking)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/a-simple-baseline-for-multi-object-tracking/multi-object-tracking-on-mot16)](https://paperswithcode.com/sota/multi-object-tracking-on-mot16?p=a-simple-baseline-for-multi-object-tracking)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/a-simple-baseline-for-multi-object-tracking/multi-object-tracking-on-mot17)](https://paperswithcode.com/sota/multi-object-tracking-on-mot17?p=a-simple-baseline-for-multi-object-tracking)
